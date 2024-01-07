@@ -1,0 +1,5 @@
+﻿  BMI计算器（c++移植正式版）.cpp
+D:\repos\BMI计算器（c++移植正式版）\BMI计算器（c++移植正式版）\BMI计算器（c++移植正式版）.cpp(66,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\repos\BMI计算器（c++移植正式版）\BMI计算器（c++移植正式版）\BMI计算器（c++移植正式版）.cpp(67,11): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+D:\repos\BMI计算器（c++移植正式版）\BMI计算器（c++移植正式版）\BMI计算器（c++移植正式版）.cpp(63): warning C4715: “ansfore”: 不是所有的控件路径都返回值
+  BMI计算器（c++移植正式版）.vcxproj -> D:\repos\BMI计算器（c++移植正式版）\x64\Debug\BMI计算器（c++移植正式版）.exe
